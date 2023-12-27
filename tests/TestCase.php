@@ -2,8 +2,8 @@
 
 namespace Netipar\Szamlazz\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Netipar\Szamlazz\SzamlazzServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
